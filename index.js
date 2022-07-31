@@ -1,7 +1,1 @@
-var myName = "Beau"
-
-myName = 8
-
-let ourName = "freeCodeCamp"
-
-const pi = 3.14
+console.log("Hello from Javascript");
